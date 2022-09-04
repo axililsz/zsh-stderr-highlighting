@@ -1,0 +1,1 @@
+zsh-stderr-highlighting.zsh
